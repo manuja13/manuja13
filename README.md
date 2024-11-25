@@ -1,16 +1,19 @@
+# Personal Profile
+
 ## Hi there 👋
 
-<!--
-**manuja13/manuja13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 😊 I'm Vehan Rajintha
+* 🎓 I'm 21 years old
+* 🧑‍💻 I'm interested in HTML, CSS, JavaScript, C++, Hacking, Web developing and more
+* 🎓 I'm currently reading Computer Systems and Network Engineering Degree at SLIIT.
+* 🔗 I'm also member of KCD, GDG & AICSL.
+* ❤️ I'm looking to collaborate on building websites and web apps, developing linux tools, Linux server operations and more.
 
-Here are some ideas to get you started:
+## Connect & Collaborate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [Portfolio](https://example.com) | [LinkedIn](https://www.linkedin.com/in/vehanrajintha/) | [Twitter](https://twitter.com/vehanrajintha) | [Instagram](https://www.instagram.com/vehanrajintha/) | [Email](mailto:it23646360@my.sliit.lk) |
+| --- | --- | --- | --- | --- |
+
+## Contact Me
+
+* 💬 Text me on WhatsApp +94711391041
