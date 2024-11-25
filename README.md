@@ -1,12 +1,17 @@
 # Personal Profile
-- 😊 I'm Manuja Hiranya
-- 🎓 22 years old, BTEC HND in Computing, BSc (Hons) Computer Science
+
+## Hi there 👋
 
 ![Most Used Languages](https://yourimagehost.com/link-to-image1.png)
 
-## Connect & Collaborate
-![Connect and Collaborate](https://yourimagehost.com/link-to-image2.png)
+- 😊 I'm Manuja Hiranya
+- 🎓 I'm 22 years old
+- 🧑‍💻 I'm interested in HTML, CSS, PHP, Python, React JS, Vue JS, JavaScript, C#, MySQL, MongoDB, web development, and more
+- 🎓 I hold a Pearson BTEC Higher National Diploma in Computing from APIIT
+- 🎓 I earned a BSc (Hons) in Computer Science from Staffordshire University
+- ❤️ I look forward to collaborating on building websites, web apps, and more
 
+## Connect & Collaborate
 | Platform | Link |
 | --- | --- |
 | LinkedIn | [Manuja Hiranya](https://www.linkedin.com/in/manuja-hiranya-8020b4257/) |
