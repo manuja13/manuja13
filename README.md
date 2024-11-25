@@ -1,13 +1,13 @@
-# Personal Profile
+![image](https://github.com/user-attachments/assets/24f8a30d-5df0-490b-b4c1-c1ae04d476f2)# Personal Profile
 
 ## Hi there 👋
 
 - 😊 I'm Manuja Hiranya
-- 🎓 I'm 22 years old
-- 🧑‍💻 I'm interested in HTML, CSS, PHP, Python, React JS, Vue JS, JavaScript, C#, MySQL, MongoDB, web development, and more
-- 🎓 I hold a Pearson BTEC Higher National Diploma in Computing from APIIT
-- 🎓 I earned a BSc (Hons) in Computer Science from Staffordshire University
-- ❤️ I look forward to collaborating on building websites, web apps, and more
+- 🎂 I'm 22 years old
+- 🧑‍💻 I'm interested in HTML, CSS, PHP, Python, React JS, Vue JS, JavaScript, C#, My SQL, Mongo DB, Web developing and more.
+- 🎓 I'm Graduate Pearson B-tech Higher National Diploma in Computing at APIIT.
+- 👨🏻‍🎓 I'm a BSc (Hons) graduate in Computer Science from Staffordshire University.
+- ❤️ I look forward to collaborating on building websites, web apps, and more.
 
 ## Connect & Collaborate
 | Platform | Link |
