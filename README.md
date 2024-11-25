@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24f8a30d-5df0-490b-b4c1-c1ae04d476f2)# Personal Profile
+# Personal Profile
 
 ## Hi there 👋
 
