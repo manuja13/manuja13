@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-![Most Used Languages](https://yourimagehost.com/link-to-image1.png)
-
 - 😊 I'm Manuja Hiranya
 - 🎓 I'm 22 years old
 - 🧑‍💻 I'm interested in HTML, CSS, PHP, Python, React JS, Vue JS, JavaScript, C#, MySQL, MongoDB, web development, and more
