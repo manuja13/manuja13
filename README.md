@@ -5,7 +5,7 @@
 - 😊 I'm Manuja Hiranya
 - 🎂 I'm 22 years old
 - 🧑‍💻 I'm interested in HTML, CSS, PHP, Python, React JS, Vue JS, JavaScript, C#, My SQL, Mongo DB, Web developing and more.
-- 🎓 I'm Graduate Pearson B-tech Higher National Diploma in Computing at APIIT.
+- 🎓 I am a Pearson B-tech graduate with a Higher National Diploma in Computing from APIIT.
 - 👨🏻‍🎓 I'm a BSc (Hons) graduate in Computer Science from Staffordshire University.
 - ❤️ I look forward to collaborating on building websites, web apps, and more.
 
