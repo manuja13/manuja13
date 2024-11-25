@@ -2,18 +2,18 @@
 
 ## Hi there 👋
 
-* 😊 I'm Vehan Rajintha
-* 🎓 I'm 21 years old
-* 🧑‍💻 I'm interested in HTML, CSS, JavaScript, C++, Hacking, Web developing and more
-* 🎓 I'm currently reading Computer Systems and Network Engineering Degree at SLIIT.
-* 🔗 I'm also member of KCD, GDG & AICSL.
-* ❤️ I'm looking to collaborate on building websites and web apps, developing linux tools, Linux server operations and more.
+* 😊 I'm Manuja Hiranya
+* 🎓 I'm 22 years old
+* 🧑‍💻 I'm interested in HTML, CSS, PHP, Python, React JS, Vue JS, JavaScript, C#, My SQL, Mongo DB, Web developing and more
+* 🎓 I'm Graduate Pearson B-tech Higher National Diploma in Computing at APIIT.
+* 🎓 I'm Graduate BSc (Hons) Computer Science at University of Staffordshire.
+* ❤️ I look forward to collaborating on building websites, web apps, and more.
 
 ## Connect & Collaborate
 
-| [Portfolio](https://example.com) | [LinkedIn](https://www.linkedin.com/in/vehanrajintha/) | [Twitter](https://twitter.com/vehanrajintha) | [Instagram](https://www.instagram.com/vehanrajintha/) | [Email](mailto:it23646360@my.sliit.lk) |
+| [LinkedIn](https://www.linkedin.com/in/manuja-hiranya-8020b4257/) | [Instagram](https://www.instagram.com/manuja_13/) | [Email](mailto:manuja.hiranya8@gmail.com) |  [Facebook](https://facebook.com/manuja.hiranya/)
 | --- | --- | --- | --- | --- |
 
 ## Contact Me
 
-* 💬 Text me on WhatsApp +94711391041
+* 💬 Text me on WhatsApp +94760552456
