@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuja13&label=Profile%20views&color=0e75b6&style=flat" alt="manuja13" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
 - 🎂 I'm 22 years old.
 - 🎓 I am a Pearson B-tech graduate with a Higher National Diploma in Computing from APIIT.
 - 👨🏻‍🎓 I'm a BSc (Hons) graduate in Computer Science from Staffordshire University.
